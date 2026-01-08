@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Artist in the Black Hat",
+        "blurb":"A self portrait in black and white",
+        "localurl":"images/Portraits/Artist in the Black Hat.jpg"
+    },
+    {
+        "name":"Alex Turner",
+        "blurb":"A portrait of Arctic Monkeys frontman Alex Turner",
+        "localurl":"images/Alex/Alex.jpg"
+    },
+    {
+        "name":"Cat",
+        "blurb":"A pet portrait commission",
+        "localurl":"images/Portraits/Cat.jpg"
+    },
+    {
+        "name":"David",
+        "blurb":"",
+        "localurl":"images/Portraits/David.jpg"
+    },
+    {
+        "name":"Drug Free",
+        "blurb":"A drawing of AEW wrestler Darby Allin",
+        "localurl":"images/Portraits/Drug_Free.jpg"
+    },
+    {
+        "name":"Alex Turner 2",
+        "blurb":"A portrait of Arctic Monkeys frontman Alex Turner",
+        "localurl":"images/Alex/Untitled_Artwork(7).jpg"
+    },
+    {
+        "name":"Fall 2024",
+        "blurb":"A self portrait from Fall 2024",
+        "localurl":"images/Portraits/Fall 2024.jpg"
+    },
+    {
+        "name":"Father",
+        "blurb":"A portrait of my father experimenting with color choices",
+        "localurl":"images/Portraits/Father.jpg"
+    },
+    {
+        "name":"Forever",
+        "blurb":"A pet portrait commission",
+        "localurl":"images/Portraits/Forever.jpg"
+    },
+    {
+        "name":"Man In The Yellow Shirt",
+        "blurb":"",
+        "localurl":"images/Portraits/Man_In_The_Yellow_Shirt.jpg"
+    },
+    {
+        "name":"Music",
+        "blurb":"",
+        "localurl":"images/Portraits/Music.jpg"
+    },
+    {
+        "name":"No Smoke",
+        "blurb":"",
+        "localurl":"images/Portraits/No Smoke.jpg"
+    },
+    {
+        "name":"Sasha",
+        "blurb":"",
+        "localurl":"images/Portraits/Sasha.jpg"
+    },
+    {
+        "name":"Steve the Cat",
+        "blurb":"A pet portrait commission",
+        "localurl":"images/Portraits/Steve_The_Cat.jpg"
+    },
+    {
+        "name":"Smile",
+        "blurb":"A pet portrait commission",
+        "localurl":"images/Portraits/Smile.jpg"
+    },
+    {
+        "name":"Sunflower",
+        "blurb":"A pet portrait commission",
+        "localurl":"images/Portraits/Sunflower.jpg"
+    },
+    {
+        "name":"Tired",
+        "blurb":"",
+        "localurl":"images/Portraits/tired.jpg"
+    },
+    {
+        "name":"Tucker",
+        "blurb":"A pet portrait commission",
+        "localurl":"images/Portraits/Tucker.jpg"
+    }
+    ]

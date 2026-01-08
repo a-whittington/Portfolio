@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Get Cracking!",
+        "main_img":"images/Prints/Get Cracking.jpg",
+        "blurb":"Inspired by my local cuisine. Crabs have always been a huge part of my life growing up in Maryland. Crab boils with corn and Old Bay were a staple in the summer and for birthdays.",
+        "eBayurl":"https://www.ebay.com/itm/317662829535",
+        "gallery":
+        [
+            "images/Prints/Cracking Print.jpg"
+        ]
+    },
+    {
+        "name":"Fish",
+        "main_img":"images/Prints/Fish.jpg",
+        "blurb":"Fish, lots and lots of fish, packed together nice and tight. I hope they aren't claustrophobic...",
+        "eBayurl":"https://www.ebay.com/itm/317662761804",
+        "gallery":
+        [
+            "images/Prints/Fish Print.jpg"
+        ]
+    },
+    {
+        "name":"Chopped Fish",
+        "main_img":"images/Prints/Chopped Fish.jpg",
+        "blurb":"A study in colors and textures using this chopped up fish as inspiration",
+        "eBayurl":"https://www.ebay.com/itm/317662793482",
+        "gallery":
+        [
+            "images/Prints/Chopped Fish Print.jpg"
+        ]
+    },
+    {
+        "name":"Oranges",
+        "main_img":"images/Prints/Oranges.jpg",
+        "blurb":"Coming Soon!",
+        "eBayurl":"",
+        "gallery":[]
+    }
+]
