@@ -157,6 +157,10 @@
         font-size: 40px;
         margin: 0;
     }
+
+    .comms img {
+        max-width:70vw;
+    }
     
     .about {
         background-color: var(--accent-1);
@@ -1083,6 +1087,16 @@
         font-family: Krub;
         font-weight: 450;
     }
+
+    .comms {
+        font-size: 40px;
+    }
+
+    .comms img {
+        max-width:70vw;
+    }
+
+
 }
 
 /* This is a comment I made to force github to update correctly */
