@@ -755,6 +755,36 @@
         font-family: Krub;
         font-weight: 450;
     }
+
+    .commissions div {
+        margin: none;
+        justify-content: space-between;
+    }
+
+    .commissions img {
+        max-width: 70vw;
+    }
+
+    .socials {
+        padding: 0;
+    }
+
+    .socials li {
+        list-style-type: none;
+        padding: 5px;
+    }
+
+    .socials li img {
+        max-width: 5vw;
+        max-height: 5vw;
+    }
+
+    .commissionGallery {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        
+    }
 }
 
 @media (max-width: 699px) {
@@ -818,7 +848,7 @@
     }
 
     .body_sections div {
-        margin: 5px;
+        margin: none;
     }
     
     .illustrations {
@@ -1096,7 +1126,14 @@
         max-width:70vw;
     }
 
+    .commissions div {
+        margin: none;
+        justify-content: space-between;
+    }
 
+    .commissions img {
+        max-width: 70vw;
+    }
 }
 
 /* This is a comment I made to force github to update correctly */
