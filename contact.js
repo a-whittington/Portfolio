@@ -1,6 +1,6 @@
 const commissions = document.getElementById("commissions")
 const commissionMenu = document.createElement("div")
-commissionMenu.style.display = "none"
+commissionMenu.style.display = "flex"
 
 const commissionInfo = document.createElement("div")
 const commissionGallery = [
@@ -66,7 +66,7 @@ const info = document.createElement("p")
 
 const showButton = document.createElement("button");
 showButton.type = "button"
-showButton.innerHTML = "Show Info"
+showButton.innerHTML = "Hide Info"
 showButton.addEventListener('click', function() {
     if (commissionMenu.style.display === "none") {
         commissionMenu.style.display = "flex"
