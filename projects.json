@@ -1,4 +1,26 @@
 [
+{
+	"name":"Zodiac Dogs",
+	"main_img":"./images/Zodiac Dogs/Pisces.jpg",
+	"gallery":
+	[
+		"./images/Zodiac Dogs/All Dogs.JPG",
+		"./images/Zodiac Dogs/Aquarius.jpg",
+		"./images/Zodiac Dogs/Aries.jpg",
+		"./images/Zodiac Dogs/Cancer.jpg",
+		"./images/Zodiac Dogs/Capricorn.jpg",
+		"./images/Zodiac Dogs/Gemini.jpg",
+		"./images/Zodiac Dogs/Leo.jpg",
+		"./images/Zodiac Dogs/Libra.jpg",
+		"./images/Zodiac Dogs/Pisces.jpg",
+		"./images/Zodiac Dogs/Sagittarius.jpg",
+		"./images/Zodiac Dogs/Scorpio.jpg",
+		"./images/Zodiac Dogs/Taurus.jpg",
+		"./images/Zodiac Dogs/Virgo.jpg"
+	],
+	"blurb":"4 week long project for Junior Illustration. Pairing dogs with zodiac signs to create 12 full illustrations"
+},
+
     {
         "name":"The Sea Maiden (Fall 2025)",
         "main_img":"images/The Sea Maiden/Sea Maiden Mockup.jpg",
