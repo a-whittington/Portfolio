@@ -40,20 +40,18 @@ if (entry_type_flag.lower() == 'po'):
     finally:
         with open(filename, 'w') as outFile:
             outFile.write('[\n')
-            outFile.write(json_entries)
             for file in directory_path.iterdir():
-                if first:
-                    first = 0
-                    outFile.write('{\n')
-                else: outFile.write(',\n{\n')
                 print("Now creating an entry for file " + file.name)
-                name = input("Enter the name of this piece: ")
+                name = input("Enter the name of this piece (type 'skip' to exclude it): ")
                 blurb = input("Enter the blurb for this piece: ")
+                if (name.lower() == 'skip'): continue
+                outFile.write('{\n')
                 localurl = path + '/' + file.name
                 outFile.write('\t\"name\":\"' + name + '\",\n')
                 outFile.write('\t\"blurb\":\"' + blurb + '\",\n')
                 outFile.write('\t\"localurl\":\"' + localurl + '\"\n')
-                outFile.write('}')
+                outFile.write('},')
+            outFile.write(json_entries)
             outFile.write('\n]')
 
 # BEGIN PROJECT CASE
@@ -80,6 +78,8 @@ else:
                 gallery.append('')
             for file in directory_path.iterdir():
                 print("Now making a gallery entry for " + file.name)
+                skip_flag = input("Include this piece? (y/n) ")
+                if (skip_flag.lower() == 'n'): continue
                 while 1:
                     filenum = input("Enter a number 1 to " + str(filecount) + ": ")
                     if not filenum.isdigit():

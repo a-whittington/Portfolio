@@ -20,8 +20,31 @@
 	],
 	"blurb":"4 week long project for Junior Illustration. Pairing dogs with zodiac signs to create 12 full illustrations"
 },
+{
+	"name":"The Pitt",
+	"main_img":"./images/The Pitt/Pitt_Art.jpg",
+	"gallery":
+	[
+		"./images/The Pitt/Pitt_Art.jpg",
+		"./images/The Pitt/Untitled_Artwork(1).jpg",
+		"./images/The Pitt/IMG_0773.JPG",
+		"./images/The Pitt/Untitled_Artwork.jpg"
+	],
+	"blurb":"Portrait assignment based on characters and settings from HBO's The Pitt"
+},
 
-    {
+{
+	"name":"Hangman",
+	"main_img":"./images/Hangman/Untitled_Artwork(1).jpg",
+	"gallery":
+	[
+		"./images/Hangman/Untitled_Artwork(1).jpg",
+		"./images/Hangman/Untitled_Artwork(2).jpg",
+		"./images/Hangman/Untitled_Artwork.jpg"
+	],
+	"blurb":"Illustration of AEW wrestler Hangman Adam Page"
+},
+{
         "name":"The Sea Maiden (Fall 2025)",
         "main_img":"images/The Sea Maiden/Sea Maiden Mockup.jpg",
         "gallery":
@@ -37,6 +60,78 @@
         ],
         "blurb":"Junior Illustration Final. Mockups/designs for a Hades-like game based on the Celtic story of the Sea Maiden"
     },
+
+{
+	"name":"Star Rider Album Project",
+	"main_img":"./images/Single Album project/Untitled_Artwork 10.jpg",
+	"gallery":
+	[
+		"./images/Single Album project/Untitled_Artwork 10.jpg",
+		"./images/Single Album project/Untitled_Artwork 9.jpg",
+		"./images/Single Album project/FrontFinal_AbbyWhittington.jpeg",
+		"./images/Single Album project/BackFinal_AbbyWhittington.jpeg",
+		"./images/Single Album project/Untitled_Artwork 12.jpg",
+		"./images/Single Album project/Untitled_Artwork.jpg",
+		""
+	],
+	"blurb":"Junior illustration project inspired by and centered around the song Star Rider by Hallas"
+},
+
+{
+	"name":"Apollos Desire",
+	"main_img":"./images/Apollos Desire/IMG_6527.jpeg",
+	"gallery":
+	[
+		"./images/Apollos Desire/IMG_6527.jpeg",
+		"./images/Apollos Desire/IMG_6532.jpeg",
+		"./images/Apollos Desire/IMG_6531.JPG",
+		"./images/Apollos Desire/IMG_6534.JPG",
+		"./images/Apollos Desire/IMG_6530.jpeg",
+		"./images/Apollos Desire/IMG_6535.JPG"
+	],
+	"blurb":"Sculpture project inspired by the story of Apollo and Daphne"
+},
+
+{
+	"name":"The Samurai",
+	"main_img":"./images/Rok not Rock/Untitled_Artwork(1).jpg",
+	"gallery":
+	[
+		"./images/Rok not Rock/Untitled_Artwork(1).jpg",
+		"./images/Rok not Rock/Untitled_Artwork(2).jpg",
+		"./images/Rok not Rock/Untitled_Artwork(3).jpg",
+		"./images/Rok not Rock/Untitled_Artwork(4).jpg",
+		"./images/Rok not Rock/Untitled_Artwork(5).jpg",
+		"./images/Rok not Rock/Untitled_Artwork(6).jpg",
+		"./images/Rok not Rock/Untitled_Artwork.jpg",
+        "./images/Rok not Rock/Untitled_Artwork(7).jpg"
+	],
+	"blurb":"Digital illustration of a DND samurai, with several experimental gradient maps applied"
+},
+
+{
+	"name":"Alex Turner Cornerstone Portrait",
+	"main_img":"./images/Cornerstone Alex/Assigment_1.jpg",
+	"gallery":
+	[
+		"./images/Cornerstone Alex/Assigment_1.jpg",
+		"./images/Cornerstone Alex/Untitled_Artwork 1.jpg",
+		"./images/Cornerstone Alex/Untitled_Artwork 2.jpg"
+	],
+	"blurb":"Digital portrait of Arctic Monkeys frontman Alex Turner, as seen in the Cornerstone music video. Includes process files"
+},
+
+{
+	"name":"Arctic Monkeys Band T-Shirt",
+	"main_img":"./images/Alex Band T/Untitled_Artwork 1.jpg",
+	"gallery":
+	[
+		"./images/Alex Band T/Untitled_Artwork 1.jpg",
+		"./images/Alex Band T/Untitled_Artwork 2.jpg",
+		"./images/Alex Band T/Untitled_Artwork.jpg"
+	],
+	"blurb":"Simple, limited-color design for a band t-shirt"
+},
     {
         "name":"Sherbert Brand Design (Fall 2025)",
         "main_img":"images/Ice Cream/Blue Sherbert.jpg",

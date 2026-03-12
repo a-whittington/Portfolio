@@ -1,4 +1,19 @@
 [
+{
+	"name":"Cornerstone Alex",
+	"blurb":"Digital Portrait of Arctic Monkeys frontman Alex Turner, from the Cornerstone music video",
+	"localurl":"./images/New_ I think/Assigment_1.jpg"
+},{
+	"name":"Boys Brunch",
+	"blurb":"",
+	"localurl":"./images/New_ I think/Untitled_Artwork 1.jpg"
+},
+{
+	"name":"Stolen Apple",
+	"blurb":"Illustration of two DND characters in profile, their outlines matching the shape of a devoured apple's core",
+	"localurl":"./images/New_ I think/Untitled_Artwork 2.jpg"
+},
+
     {
         "name":"Warlock and his Cat",
         "blurb":"A D&D Character Commission",
@@ -244,4 +259,5 @@
         "blurb":"The poster for the back of my Seven Deadly Sins Zine",
         "localurl":"images/Illustrations/Sins.jpg"
     }
+
 ]
