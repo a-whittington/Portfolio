@@ -1,5 +1,23 @@
 [
     {
+        "name":"Green Fish",
+        "main_img":"images/Prints/Fish 2 Final .jpeg",
+        "blurb":"Coming soon! (Email me for more information)",
+        "eBayurl":"",
+        "gallery":
+        [
+        ]
+    },
+    {
+        "name":"Blue Fish",
+        "main_img":"images/Prints/IMG_2319_SnapseedCopy.jpg",
+        "blurb":"Coming soon! (Email me for more information)",
+        "eBayurl":"",
+        "gallery":
+        [
+        ]
+    },
+    {
         "name":"Get Cracking!",
         "main_img":"images/Prints/Get Cracking.jpg",
         "blurb":"Inspired by my local cuisine. Crabs have always been a huge part of my life growing up in Maryland. Crab boils with corn and Old Bay were a staple in the summer and for birthdays.",
@@ -32,8 +50,19 @@
     {
         "name":"Oranges",
         "main_img":"images/Prints/Oranges.jpg",
-        "blurb":"Coming Soon!",
-        "eBayurl":"",
-        "gallery":[]
+        "blurb":"Some lovely citrus on a baby blue background",
+        "eBayurl":"https://www.ebay.com/itm/317999714201?itmmeta=01KTWP96E8ZB74X9BR58AXW4RN&hash=item4a0a428f99:g:Oc0AAeSwgH9ptHr8",
+        "gallery":
+        [
+        ]
+    },
+    {
+        "name":"Just A Little Time",
+        "main_img":"images/Illustrations/Just a Little Time.jpg",
+        "blurb":"Quiet illustration of a character on a bus",
+        "eBayurl":"https://www.ebay.com/itm/317999707320?itmmeta=01KTWP96E8JN9PMRF7SVYT55V2&hash=item4a0a4274b8:g:iPsAAeSwJ9NptHhy",
+        "gallery":
+        [
+        ]
     }
 ]
