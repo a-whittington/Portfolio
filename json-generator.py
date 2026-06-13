@@ -25,7 +25,7 @@ print("There are " + str(filecount) + " files in " + path)
 
 # BEGIN PORTFOLIO CASE
 if (entry_type_flag.lower() == 'po'):
-    filename = input("Enter the target filename: ")
+    filename = input("Enter the target .json file: ")
     filename = "./" + filename
     try: 
         with open(filename, 'r') as inFile:
