@@ -12,7 +12,7 @@ def generate_portfolio(directory):
                 name = file.name.split('.')[0]
                 blurb = ""
                 outFile.write('{\n')
-                localurl = directory_path + '/' + file.name
+                localurl = str(directory_path) + '/' + file.name
                 outFile.write('\t\"name\":\"' + name + '\",\n')
                 outFile.write('\t\"blurb\":\"' + blurb + '\",\n')
                 outFile.write('\t\"localurl\":\"' + localurl + '\"\n')
