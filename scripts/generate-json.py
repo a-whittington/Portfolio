@@ -6,7 +6,7 @@ def generate_portfolio(directory):
     with open(directory+'/gallery.json', 'w') as outFile:
         outFile.write('[\n')
         for i in range(1,4):
-            directory_path = directory+f"/{i}"
+            directory_path = Path(directory+f"/{i}")
             for file in directory_path.iterdir():
                 print("Now creating an entry for file " + file.name)
                 name = file.name.split('.')[0]
