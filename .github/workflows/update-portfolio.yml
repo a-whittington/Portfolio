@@ -24,10 +24,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
       - name: Find portfolio directories with newly added files
         id: changed_dirs
         run: |
