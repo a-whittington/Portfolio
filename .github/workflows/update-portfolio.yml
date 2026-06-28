@@ -1,0 +1,68 @@
+name: Generate Portfolio Metadata
+
+on:
+  push:
+    paths:
+      - "images/portfolio/**"
+      - "!images/portfolio/projects/**"
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Find portfolio directories with newly added files
+        id: changed_dirs
+        run: |
+          dirs=$(
+            git diff --diff-filter=A --name-only HEAD^ HEAD \
+            | grep '^images/portfolio/' \
+            | awk -F/ 'NF >= 4 { print $1 "/" $2 "/" $3 }' \
+            | sort -u
+          )
+
+          {
+            echo "dirs<<EOF"
+            echo "$dirs"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Generate metadata
+        if: steps.changed_dirs.outputs.dirs != ''
+        run: |
+          while IFS= read -r dir; do
+            echo "Generating metadata for $dir"
+            python scripts/generate-json.py "$dir"
+          done <<< "${{ steps.changed_dirs.outputs.dirs }}"
+
+      - name: Commit generated JSON
+        if: steps.changed_dirs.outputs.dirs != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add images/portfolio
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update portfolio metadata"
+            git push
+          fi
