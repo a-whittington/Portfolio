@@ -17,6 +17,11 @@ def generate_portfolio(directory):
                 outFile.write('\t\"blurb\":\"' + blurb + '\",\n')
                 outFile.write('\t\"localurl\":\"' + localurl + '\"\n')
                 outFile.write('},')
+        outFile.write('{\n')
+        outFile.write('\t\"name\":\"\",\n')
+        outFile.write('\t\"blurb\":\"\",\n')
+        outFile.write('\t\"localurl\":\"\"\n')
+        outFile.write('}')
         outFile.write('\n]')
 
 def main():
