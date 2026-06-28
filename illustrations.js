@@ -27,7 +27,7 @@ const displayGallery = (json) => {
     })
 }
 
-fetch('./illustrations.json')
+fetch('./images/portfolio/illustrations/gallery.json')
     .then(response => response.json())
     .then(json => displayGallery(json))
 

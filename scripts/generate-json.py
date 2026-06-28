@@ -21,7 +21,6 @@ def generate_portfolio(directory):
 
 def main():
     directory = sys.argv[1]
-    print(f"Now starting to generate JSON data for {directory}")
     generate_portfolio(directory)
 
 if __name__=="__main__":
