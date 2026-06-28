@@ -1,4 +1,5 @@
 from pathlib import Path
+import sys
 
 def generate_portfolio(directory):
     # Generate json from directory 1, then 2, then 3
@@ -17,3 +18,8 @@ def generate_portfolio(directory):
                 outFile.write('\t\"localurl\":\"' + localurl + '\"\n')
                 outFile.write('},')
         outFile.write('\n]')
+
+def main():
+    directory = sys.argv[1]
+    print(f"Now starting to generate JSON data for {directory}")
+    generate_portfolio(directory)
