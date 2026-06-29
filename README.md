@@ -23,10 +23,43 @@ Notes:
 Simply follow the directions from step 1, adding the art to the desired folder rather than `full`.
 
 ## 3: Add a new project
-WIP
+Projects are slightly more complicated. I will try to make this as easy as possible.
+1. Go to the [GitHub repository](https://github.com/a-whittington/Portfolio/tree/main/images/portfolio/projects) into the projects folder. Move to folder 1, 2, or 3 depending on this project's priority
+2. Click 'Add file', then 'Create new file'
+3. At the top of the screen, where it says 'Name your file...', type the name of the **FOLDER** you wish to add, then type '/' to create a new project folder
+4. Now type `blurb.txt`. You can use the text editor below to write your blurb. 
+    * **ONLY** write one line, do not hit enter, as lines after the first will be ignored!
+5. Press 'Commit changes' and replace the commit message with something useful (for example, created \[project name\] project). Click 'Commit changes' again to create the folder and the blurb file
+6. Now, click 'Add file', this time click 'Upload files'
+7. Upload the images you wish to add to this project
+    * The order is a lot less flexible now than it will be before. However, as each image does not have its own name, this is easier to manage. Simply name images as numbers (so the first might be `1.jpg`, the second `2.jpg`, etc) keeping in mind that the first image will be the main image that appears on the Projects page. This way you choose the order of appearance when the viewer clicks the "more info" button.
+8. Commit changes with an appropriate message
+
+Everything should auto-update from there.
 
 ## 4: Add a new print
-WIP
+Because of various complications in how prints are generated on the site, these will need to be updated manually. Fortunately, they have the simplest implementation.
+1. Add any images you wish to the [Prints folder](https://github.com/a-whittington/Portfolio/tree/main/images/Prints) and commit changes
+2. Open up the `shop.json` file [here](https://github.com/a-whittington/Portfolio/blob/main/shop.json)
+3. Click the little pencil icon to edit this file
+4. Copy this template:
+```
+{
+    "name":"[put a project name]",
+    "main_img":"images/Prints/[put a filename]",
+    "blurb":"Coming soon! (Email me for more information)",
+    "eBayurl":"",
+    "gallery":
+    [
+        "images/Prints/[put a filename]"
+    ]
+},
+```
+5. Paste that template into `shop.json` wherever you want it. Note that EVERY pair of curly braces ({}) MUST be followed by a comma EXCEPT for the last one, which CANNOT have a comma, the page will break
+6. Change any information in square brackets ([]), and add images to the gallery
+    * Note: if you add more than one image (for example, adding a photo of the print from your room or whatever), make sure it has a comma after the close quotation mark
+7. If this print is already available on eBay, copy the link to the listing into the quotation marks on the eBayurl line
+8. Once you're done, commit your changes
 
 ## 5: Add a new folder to the portfolio
 You may never need to do this again, as I feel we're pretty well covered by the existing 5 categories and the prints page. That said, if you need to do it, you should do the following:
@@ -35,11 +68,11 @@ You may never need to do this again, as I feel we're pretty well covered by the 
 1. Go to the [GitHub repository](https://github.com/a-whittington/Portfolio/tree/main/images/portfolio)
 2. Click 'Add file', then 'Create new file'
 3. At the top of the screen, where it says 'Name your file...', type the name of the **FOLDER** you wish to add, then type '/' to create a new folder
-4. Now type 'gallery.json'
+4. Now type `gallery.json`
 5. Press 'Commit changes' and replace the commit message with something useful (for example, created \[Folder Name Here\] folder). Click 'Commit changes' again to create the folder and the gallery file
 6. Create folders 1, 2, and 3 (this is annoying I'm sorry)
     * To do this, you will need to create a file in each of these folders just like you created the 'gallery.json' file. These files should be deleted later when you upload images.
-    * You can name the file something like '1.txt'
+    * You can name the file something like `1.txt`
     * This is necessary because GitHub does not allow empty folders to exist. So, make sure you upload images to folders 1, 2, and 3 before deleting their text file contents.
     * DO NOT leave any non-image files inside the folders! I don't know what will happen but I am sure it would not be good
 7. Add images to the folders as described above, and remove placeholder file
@@ -49,11 +82,11 @@ You may never need to do this again, as I feel we're pretty well covered by the 
 If you want me to do this I am happy to. If you feel like making it happen yourself these are the changes that must be made:
 1. Go to the GitHub repository [home page](https://github.com/a-whittington/Portfolio)
 2. Open up `illustrations.js` and copy the full contents
-3. Add a new file, call it `folder_name.js`
+3. Add a new file, call it `[your_folder_name].js`
 4. Paste the contents into your new file
 5. In line 30 of the new .js file, change where it says `./images/portfolio/illustrations/gallery.json` by replacing `illustrations` with your folder name
 6. Commit changes with an appropriate message
-7. Open and copy `illustrations.html`, then paste it into a new file called `folder_name.html`
+7. Open and copy `illustrations.html`, then paste it into a new file called `[your_folder_name].html`
 8. Change line 12, replacing `Illustrations` with the name of the page
     * Change line 24 the same way (make sure it's all caps to match style)
     * Finally, change line 34 in a similar manner

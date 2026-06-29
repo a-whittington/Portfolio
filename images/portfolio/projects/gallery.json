@@ -1,0 +1,72 @@
+[
+{
+	"name":"Ramsey",
+	"main_img":"images/portfolio/projects/1/Ramsey/ramsey1.jpg",
+	"blurb":"Ramsey character design project",
+	"gallery":
+	[
+		"images/portfolio/projects/1/Ramsey/ramsey1.jpg",
+		"images/portfolio/projects/1/Ramsey/ramsey2.jpg",
+		"images/portfolio/projects/1/Ramsey/ramsey3.jpg",
+		"images/portfolio/projects/1/Ramsey/ramseycard.jpg",
+		""
+	]
+},
+{
+	"name":"Zodiac Dogs",
+	"main_img":"images/portfolio/projects/1/Zodiac Dogs/All Dogs.JPG",
+	"blurb":"4 week long project for Junior Illustration. Pairing dogs with zodiac signs to create 12 full illustrations",
+	"gallery":
+	[
+		"images/portfolio/projects/1/Zodiac Dogs/All Dogs.JPG",
+		"images/portfolio/projects/1/Zodiac Dogs/Aquarius.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Aries.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Cancer.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Capricorn.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Gemini.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Leo.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Libra.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Pisces.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Sagittarius.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Scorpio.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Taurus.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Virgo.jpg",
+		""
+	]
+},
+{
+	"name":"Sailor Character and Background Project",
+	"main_img":"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork 3.jpg",
+	"blurb":"Sailor Character Design/Background Project - Jack Van Horne",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork 3.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork 6.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(1).jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(2).jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(3).jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(4).jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(5).jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork.jpg",
+		""
+	]
+},
+{
+	"name":"Wrestlers 5 Man Band",
+	"main_img":"images/portfolio/projects/3/Wrestlers 5 Man Band/Assignment_3.jpg",
+	"blurb":"A Five Man Band, plus their villain and henchman duo to oppose them. A project for my Character Design course",
+	"gallery":
+	[
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Assignment_3.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 1.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 2.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 3.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 4.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 5.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Week_1_Siloutes_.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Week_2_Wrestlers_.jpg",
+		""
+	]
+},
+{}]
