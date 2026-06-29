@@ -6,8 +6,8 @@ def generate_portfolio():
     with open('images/portfolio/projects/gallery.json', 'w') as outFile:
             outFile.write('[\n')
             # Enter 1, 2, 3 hierarchy
-            for num_dir in projects_path.iterdir():
-                if not num_dir.is_dir(): continue
+            for i in range(1,4):
+                num_dir = Path(str(projects_path) + f"/{i}")
                 num_path = Path(num_dir)
                 # Inside the numbered dir, iterate through each project
                 for dir in num_path.iterdir():
