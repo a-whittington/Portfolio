@@ -13,6 +13,7 @@ def generate_portfolio():
                 for dir in num_path.iterdir():
                     if Path(dir).is_dir():
                         current_proj = Path(dir)
+                        print(f"Working on {current_proj}")
                         # Finally in the actual project directory
                         gallery = []
                         for file in current_proj.iterdir():
