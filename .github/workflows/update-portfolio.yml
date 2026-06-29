@@ -1,4 +1,4 @@
-name: Generate Portfolio Metadata
+name: Generate Gallery
 
 on:
   push:
@@ -40,10 +40,10 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
            
-      - name: Debug output
-        run: |
-          echo "Output:"
-          echo "${{ steps.changed_dirs.outputs.dirs }}"
+      # - name: Debug output
+      #   run: |
+      #     echo "Output:"
+      #     echo "${{ steps.changed_dirs.outputs.dirs }}"
 
       - name: Generate metadata
         if: steps.changed_dirs.outputs.dirs != ''

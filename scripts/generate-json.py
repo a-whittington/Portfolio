@@ -17,6 +17,7 @@ def generate_portfolio(directory):
                 outFile.write('\t\"blurb\":\"' + blurb + '\",\n')
                 outFile.write('\t\"localurl\":\"' + localurl + '\"\n')
                 outFile.write('},')
+        # Add an empty object at the end to avoid the trailing comma
         outFile.write('{\n')
         outFile.write('\t\"name\":\"\",\n')
         outFile.write('\t\"blurb\":\"\",\n')
