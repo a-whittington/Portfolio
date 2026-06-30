@@ -58,6 +58,6 @@ const displayProjects = (json) => {
     })
 }
 
-fetch('./projects.json')
+fetch('./images/portfolio/projects/gallery.json')
     .then(response => response.json())
     .then(json => displayProjects(json))
