@@ -1,71 +1,258 @@
 [
 {
-	"name":"images/portfolio/projects/3/Wrestlers 5 Man Band",
-	"main_img":"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 1.jpg",
-	"blurb":"A Five Man Band, plus their villain and henchman duo to oppose them. A project for my Character Design course",
+	"name":"Arctic Monkeys Band T-Shirt",
+	"main_img":"images/portfolio/projects/1/Arctic Monkeys Band T-Shirt/Untitled_Artwork 1.jpg",
+	"blurb":"Simple, limited-color design for a band t-shirt",
 	"gallery":
 	[
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 1.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Week_2_Wrestlers_.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 3.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 5.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 4.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 2.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Week_1_Siloutes_.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork.jpg",
-		"images/portfolio/projects/3/Wrestlers 5 Man Band/Assignment_3.jpg",
+		"images/portfolio/projects/1/Arctic Monkeys Band T-Shirt/Untitled_Artwork 1.jpg",
+		"images/portfolio/projects/1/Arctic Monkeys Band T-Shirt/Untitled_Artwork 2.jpg",
+		"images/portfolio/projects/1/Arctic Monkeys Band T-Shirt/Untitled_Artwork.jpg",
 		""
 	]
 },
 {
-	"name":"images/portfolio/projects/1/Ramsey",
-	"main_img":"images/portfolio/projects/1/Ramsey/ramsey3.jpg",
+	"name":"Ramsey",
+	"main_img":"images/portfolio/projects/1/Ramsey/ramsey1.jpg",
 	"blurb":"Ramsey character design project",
 	"gallery":
 	[
-		"images/portfolio/projects/1/Ramsey/ramsey3.jpg",
 		"images/portfolio/projects/1/Ramsey/ramsey1.jpg",
-		"images/portfolio/projects/1/Ramsey/ramseycard.jpg",
 		"images/portfolio/projects/1/Ramsey/ramsey2.jpg",
+		"images/portfolio/projects/1/Ramsey/ramsey3.jpg",
+		"images/portfolio/projects/1/Ramsey/ramseycard.jpg",
 		""
 	]
 },
 {
-	"name":"images/portfolio/projects/1/Zodiac Dogs",
-	"main_img":"images/portfolio/projects/1/Zodiac Dogs/Sagittarius.jpg",
+	"name":"Zodiac Dogs",
+	"main_img":"images/portfolio/projects/1/Zodiac Dogs/All Dogs.JPG",
 	"blurb":"4 week long project for Junior Illustration. Pairing dogs with zodiac signs to create 12 full illustrations",
 	"gallery":
 	[
-		"images/portfolio/projects/1/Zodiac Dogs/Sagittarius.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Aries.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Aquarius.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Cancer.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Leo.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Scorpio.jpg",
 		"images/portfolio/projects/1/Zodiac Dogs/All Dogs.JPG",
+		"images/portfolio/projects/1/Zodiac Dogs/Aquarius.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Aries.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Cancer.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Capricorn.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Gemini.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Leo.jpg",
 		"images/portfolio/projects/1/Zodiac Dogs/Libra.jpg",
 		"images/portfolio/projects/1/Zodiac Dogs/Pisces.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Virgo.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Gemini.jpg",
-		"images/portfolio/projects/1/Zodiac Dogs/Capricorn.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Sagittarius.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Scorpio.jpg",
 		"images/portfolio/projects/1/Zodiac Dogs/Taurus.jpg",
+		"images/portfolio/projects/1/Zodiac Dogs/Virgo.jpg",
 		""
 	]
 },
 {
-	"name":"images/portfolio/projects/2/Sailor Character and Background Project",
-	"main_img":"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(3).jpg",
+	"name":"Apollos Desire",
+	"main_img":"images/portfolio/projects/2/Apollos Desire/IMG_6527.jpeg",
+	"blurb":"Sculpture project inspired by the story of Apollo and Daphne",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Apollos Desire/IMG_6527.jpeg",
+		"images/portfolio/projects/2/Apollos Desire/IMG_6530.jpeg",
+		"images/portfolio/projects/2/Apollos Desire/IMG_6531.JPG",
+		"images/portfolio/projects/2/Apollos Desire/IMG_6532.jpeg",
+		"images/portfolio/projects/2/Apollos Desire/IMG_6534.JPG",
+		"images/portfolio/projects/2/Apollos Desire/IMG_6535.JPG",
+		""
+	]
+},
+{
+	"name":"Cone of Cold - Blue Sherbert",
+	"main_img":"images/portfolio/projects/2/Cone of Cold - Blue Sherbert/1.jpg",
+	"blurb":"Sherbert container design project for Illustrating the Edible",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Cone of Cold - Blue Sherbert/1.jpg",
+		"images/portfolio/projects/2/Cone of Cold - Blue Sherbert/Blue Lid.jpg",
+		"images/portfolio/projects/2/Cone of Cold - Blue Sherbert/Blue_Sherbert.jpg",
+		""
+	]
+},
+{
+	"name":"Cone of Cold - Orange Crush",
+	"main_img":"images/portfolio/projects/2/Cone of Cold - Orange Crush/1.jpg",
+	"blurb":"Sherbert container design project for Illustrating the Edible",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Cone of Cold - Orange Crush/1.jpg",
+		"images/portfolio/projects/2/Cone of Cold - Orange Crush/2.jpg",
+		"images/portfolio/projects/2/Cone of Cold - Orange Crush/Ice_Cream_Paper_Cup_Mockup.jpg",
+		""
+	]
+},
+{
+	"name":"Hangman",
+	"main_img":"images/portfolio/projects/2/Hangman/1.jpg",
+	"blurb":"Illustration of AEW wrestler Hangman Adam Page",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Hangman/1.jpg",
+		"images/portfolio/projects/2/Hangman/2.jpg",
+		"images/portfolio/projects/2/Hangman/Untitled_Artwork.jpg",
+		""
+	]
+},
+{
+	"name":"Headless Horseman",
+	"main_img":"images/portfolio/projects/2/Headless Horseman/Cowboys 1.jpg",
+	"blurb":"These Headless Horseman illustrations were based on Texan folktales about a bandido and his gang being tracked by bounty hunters. I tried to draw them in a storybook style.",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Headless Horseman/Cowboys 1.jpg",
+		"images/portfolio/projects/2/Headless Horseman/Cowboys 2.jpg",
+		"images/portfolio/projects/2/Headless Horseman/Headless Horseman 3.jpg",
+		""
+	]
+},
+{
+	"name":"Ramsey",
+	"main_img":"images/portfolio/projects/2/Ramsey/ramsey1.jpg",
+	"blurb":"Ramsey character design project",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Ramsey/ramsey1.jpg",
+		"images/portfolio/projects/2/Ramsey/ramsey2.jpg",
+		"images/portfolio/projects/2/Ramsey/ramsey3.jpg",
+		"images/portfolio/projects/2/Ramsey/ramseycard.jpg",
+		""
+	]
+},
+{
+	"name":"Sailor Character and Background Project",
+	"main_img":"images/portfolio/projects/2/Sailor Character and Background Project/1.jpg",
 	"blurb":"Sailor Character Design/Background Project - Jack Van Horne",
 	"gallery":
 	[
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(3).jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(4).jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(2).jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(5).jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork 6.jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork 3.jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork.jpg",
-		"images/portfolio/projects/2/Sailor Character and Background Project/Untitled_Artwork(1).jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/1.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/2.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/3.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/4.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/5.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/6.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/7.jpg",
+		"images/portfolio/projects/2/Sailor Character and Background Project/8.jpg",
+		""
+	]
+},
+{
+	"name":"Skateboard Project",
+	"main_img":"images/portfolio/projects/2/Skateboard Project/1.jpg",
+	"blurb":"Skateboard deck design project for Junior Illustration",
+	"gallery":
+	[
+		"images/portfolio/projects/2/Skateboard Project/1.jpg",
+		"images/portfolio/projects/2/Skateboard Project/2.jpg",
+		"images/portfolio/projects/2/Skateboard Project/3.jpg",
+		"images/portfolio/projects/2/Skateboard Project/4.jpg",
+		""
+	]
+},
+{
+	"name":"The Pitt",
+	"main_img":"images/portfolio/projects/2/The Pitt/1.jpg",
+	"blurb":"Portrait assignment based on characters and settings from HBO's The Pitt",
+	"gallery":
+	[
+		"images/portfolio/projects/2/The Pitt/1.jpg",
+		"images/portfolio/projects/2/The Pitt/2.jpg",
+		"images/portfolio/projects/2/The Pitt/3.JPG",
+		"images/portfolio/projects/2/The Pitt/4.jpg",
+		""
+	]
+},
+{
+	"name":"The Samurai",
+	"main_img":"images/portfolio/projects/2/The Samurai/1.jpg",
+	"blurb":"Digital illustration of a DND samurai, with several experimental gradient maps applied",
+	"gallery":
+	[
+		"images/portfolio/projects/2/The Samurai/1.jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork(2).jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork(3).jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork(4).jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork(5).jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork(6).jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork(7).jpg",
+		"images/portfolio/projects/2/The Samurai/Untitled_Artwork.jpg",
+		""
+	]
+},
+{
+	"name":"The Sea Maiden",
+	"main_img":"images/portfolio/projects/2/The Sea Maiden/1.jpg",
+	"blurb":"Junior Illustration Final. Mockups/designs for a Hades-like game based on the Celtic story of the Sea Maiden",
+	"gallery":
+	[
+		"images/portfolio/projects/2/The Sea Maiden/1.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/2.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/3.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/4.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/5.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/6.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/7.jpg",
+		"images/portfolio/projects/2/The Sea Maiden/8.jpg",
+		""
+	]
+},
+{
+	"name":"Alex Turner Cornerstone Portrait",
+	"main_img":"images/portfolio/projects/3/Alex Turner Cornerstone Portrait/Assigment_1.jpg",
+	"blurb":"Digital portrait of Arctic Monkeys frontman Alex Turner, as seen in the Cornerstone music video. Includes process files",
+	"gallery":
+	[
+		"images/portfolio/projects/3/Alex Turner Cornerstone Portrait/Assigment_1.jpg",
+		"images/portfolio/projects/3/Alex Turner Cornerstone Portrait/Untitled_Artwork 1.jpg",
+		"images/portfolio/projects/3/Alex Turner Cornerstone Portrait/Untitled_Artwork 2.jpg",
+		""
+	]
+},
+{
+	"name":"Calendar Project",
+	"main_img":"images/portfolio/projects/3/Calendar Project/1.jpg",
+	"blurb":"Calendar Project for Sophomore Illustration. The goal was to evoke a fantasy/mythological feel",
+	"gallery":
+	[
+		"images/portfolio/projects/3/Calendar Project/1.jpg",
+		"images/portfolio/projects/3/Calendar Project/2.jpg",
+		"images/portfolio/projects/3/Calendar Project/3.jpg",
+		""
+	]
+},
+{
+	"name":"Single Album project",
+	"main_img":"images/portfolio/projects/3/Single Album project/1.jpg",
+	"blurb":"Junior illustration project inspired by and centered around the song Star Rider by Hallas",
+	"gallery":
+	[
+		"images/portfolio/projects/3/Single Album project/1.jpg",
+		"images/portfolio/projects/3/Single Album project/2.jpg",
+		"images/portfolio/projects/3/Single Album project/3.jpeg",
+		"images/portfolio/projects/3/Single Album project/4.jpeg",
+		"images/portfolio/projects/3/Single Album project/5.jpg",
+		"images/portfolio/projects/3/Single Album project/6.jpg",
+		""
+	]
+},
+{
+	"name":"Wrestlers 5 Man Band",
+	"main_img":"images/portfolio/projects/3/Wrestlers 5 Man Band/1.jpg",
+	"blurb":"A Five Man Band, plus their villain and henchman duo to oppose them. A project for my Character Design course",
+	"gallery":
+	[
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/1.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/2.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/3.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/4.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/5.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/6.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/7.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/8.jpg",
+		"images/portfolio/projects/3/Wrestlers 5 Man Band/Untitled_Artwork 5.jpg",
 		""
 	]
 },

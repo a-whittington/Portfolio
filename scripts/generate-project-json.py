@@ -22,7 +22,7 @@ def generate_portfolio():
                                 with open(str(file), 'r') as inFile:
                                     blurb = inFile.read()
                         outFile.write('{\n')
-                        outFile.write(f'\t"name":"{str(current_proj).split('\\')[-1]}",\n')
+                        outFile.write(f'\t"name":"{str(current_proj).replace('/', '\\').split('\\')[-1]}",\n')
                         outFile.write(f'\t"main_img":"{str(gallery[0]).replace('\\','/')}",\n')
                         outFile.write(f'\t"blurb":"{blurb}",\n')
                         outFile.write('\t"gallery":\n')
