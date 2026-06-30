@@ -7,7 +7,7 @@ def generate_portfolio(directory):
         outFile.write('[\n')
         for i in range(1,4):
             directory_path = Path(directory+f"/{i}")
-            for file in directory_path.iterdir():
+            for file in sorted(directory_path.iterdir()):
                 print("Now creating an entry for file " + file.name)
                 name = file.name.split('.')[0]
                 blurb = ""
